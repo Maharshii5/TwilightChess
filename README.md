@@ -4,6 +4,8 @@
 
 Twilight Chess is a simple web-based chess game where you can play against an AI opponent. Challenge yourself and see if you can outsmart the computer!
 
+![Currently Hosted at:]("https://bejewelled-lamington-d7ea7f.netlify.app/")
+
 ## Gameplay
 
 The game features a standard 8x8 chessboard. The objective is, as in traditional chess, to checkmate the opponent's king.
